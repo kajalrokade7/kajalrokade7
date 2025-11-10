@@ -6,14 +6,14 @@
 ---
 
 ### 💡 About Me  
-I’m a **Junior Software Tester** at **Metapercept**, passionate about automation, API validation, and performance testing.  
-I enjoy transforming manual test cases into **data-driven automation** that ensures reliability and accelerates delivery. 💪  
+I’m a **Junior Software Tester** at **Metapercept** (since **January 2025**) passionate about ensuring software reliability through **automation, API testing, and performance validation**.  
+I enjoy designing efficient test strategies, creating reusable frameworks, and continuously improving the QA process.  
 
-- 🧩 **Current Role:** Junior Software Tester @ Metapercept  
-- 🎯 **Focus Areas:** Automation • API Testing • Performance Validation • Framework Design  
-- 🌱 **Goal:** Grow into an **SDET role**, building scalable automation & CI/CD pipelines  
-- 💬 **Ask me about:** Selenium, Playwright, TestNG, JMeter, MySQL, Postman  
-- ⚡ **Fun fact:** “Good testers don’t just find bugs — they prevent them!” 🐞  
+- 🧩 **Current Role:** Junior Software Tester @ Metapercept (since Jan 2025)  
+- 🎯 **Focus Areas:** Test Automation • API Validation • Performance Benchmarking  
+- 🌱 **Goal:** Transition into an **SDET** role and master CI/CD-driven automation  
+- 💬 **Ask me about:** Selenium, Playwright, TestNG, Postman, JMeter, MySQL  
+- 💪 **Motto:** *"Quality is not an act, it's a habit — and testing makes it measurable."*  
 
 ---
 
@@ -33,32 +33,44 @@ I enjoy transforming manual test cases into **data-driven automation** that ensu
 
 ---
 
-### 🌟 Highlights  
+### 🌟 Key Highlights  
 
-- 🧩 Developed **end-to-end regression suites** using Selenium + TestNG  
-- 🔗 Designed **API test collections** with Postman and automated validations with Rest Assured  
-- ⚙️ Performed **load testing** on web apps using JMeter for response and throughput insights  
-- 🧾 Wrote **structured defect reports**, ensuring clear communication and traceability  
-- 🤝 Collaborated with developers for faster defect resolution and better release confidence  
+- 🧩 Built modular automation frameworks using **Selenium + TestNG**  
+- 🔗 Designed and validated **API workflows** using Postman & Rest Assured  
+- ⚙️ Conducted **performance benchmarking** with JMeter for web applications  
+- 🧾 Created detailed **bug reports** with reproducible steps and environment data  
+- 🤝 Collaborated with developers to shorten defect resolution cycles  
 
-
+---
 
 ### 🧠 How I Work  
 
-- 📝 Convert requirements into reproducible test cases & automation scripts  
-- 🧾 Validate backend data via **SQL queries** for end-to-end accuracy  
-- 🐞 Log detailed defects with environment info & evidence  
-- 🤝 Collaborate with developers & stakeholders for quality assurance  
-- 📈 Continuously learn & improve test frameworks  
+- 📝 Convert requirements into reusable automated test cases  
+- 🧾 Validate backend data with **SQL queries** for data consistency  
+- 🐞 Log clear and structured defects that developers love to fix  
+- 🤝 Work closely with the team to make releases stable and fast  
+- 📈 Constantly explore new tools to make testing more efficient  
 
 ---
 
 ### 🚀 Goals & Next Steps  
 
-- ⚙️ Expand **Playwright automation** with CI/CD integration  
-- 🔗 Strengthen **API contract validation** using schema and mock servers  
-- 🔐 Explore **security testing** and pursue **ISTQB & Playwright certifications**  
-- 🤖 Learn **AI-driven testing** tools and improve automation efficiency  
+- ⚙️ Strengthen **Playwright automation** and CI integration  
+- 🔗 Add **API schema validation** in continuous testing pipelines  
+- 🔐 Learn more about **security and accessibility testing**  
+- 🎓 Achieve **ISTQB and Playwright certifications**  
+- 🤖 Explore **AI-based test automation** for smarter quality coverage  
+
+---
+
+### 😄 Fun Facts About Me  
+
+- 🌟 I love **debugging more than coding** — finding the “why” behind issues keeps me curious.  
+- ☕ My testing energy runs on **coffee + curiosity** — that’s my perfect combo.  
+- 🕵️‍♀️ I enjoy **breaking things beautifully** just to see how well they recover.  
+- 📚 Learning a new testing tool feels like solving a new puzzle — challenging yet exciting.  
+- 🎧 I focus best with **lo-fi music** — it keeps my test flow smooth and creative.  
+- ✨ I take pride in writing **clear, readable, and reusable automation scripts** — clean code is my comfort zone.  
 
 ---
 
@@ -90,5 +102,4 @@ I enjoy transforming manual test cases into **data-driven automation** that ensu
 
 ---
 
-
-<h3 align="center">💬 “Testing isn’t just about finding bugs — it’s about ensuring confidence, reliability, and excellence in every release.” 💎</h3>
+<h3 align="center">💬 “Testing isn’t just about finding bugs — it’s about building confidence in every release.” 💎</h3>
