@@ -1,18 +1,23 @@
+<!-- 🌟 GITHUB PROFILE README FOR: Kajal Rokade -->
 
 <h1 align="center">👋 Hi, I'm Kajal Rokade</h1>
 <h3 align="center">🚀 Junior Software Tester | Automation • API • Performance | Metapercept</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Testing in action"/>
+</p>
+
 ---
 
 ### 💡 About Me  
-I’m a **Junior Software Tester** at **Metapercept**, focused on building reliable automation frameworks, validating APIs, and benchmarking performance to ensure software quality.  
-I love turning manual test cases into **data-driven automation** that improves accuracy and release speed. ✨  
+I’m a **Junior Software Tester** at **Metapercept**, passionate about automation, API validation, and performance testing.  
+I enjoy transforming manual test cases into **data-driven automation** that ensures reliability and accelerates delivery. 💪  
 
 - 🧩 **Current Role:** Junior Software Tester @ Metapercept  
 - 🎯 **Focus Areas:** Automation • API Testing • Performance Validation • Framework Design  
-- 🌱 **Goal:** Grow into an **SDET role**, owning scalable frameworks & CI/CD pipelines  
-- 💬 **Ask me about:** Selenium, Playwright, TestNG, API Testing, JMeter, MySQL  
-- ⚡ **Fun fact:** I believe “Good testers prevent bugs, not just find them!” 🐞  
+- 🌱 **Goal:** Grow into an **SDET role**, building scalable automation & CI/CD pipelines  
+- 💬 **Ask me about:** Selenium, Playwright, TestNG, JMeter, MySQL, Postman  
+- ⚡ **Fun fact:** “Good testers don’t just find bugs — they prevent them!” 🐞  
 
 ---
 
@@ -32,37 +37,38 @@ I love turning manual test cases into **data-driven automation** that improves a
 
 ---
 
-### 🌟 Featured Projects  
+### 🌟 Highlights  
 
-#### 🧩 [E-Commerce Regression Suite (Selenium + TestNG)](https://github.com/kajalrokade7/Ecommerce-Automation)
-- Designed a **modular POM framework** automating core user journeys (login, search, cart, checkout).  
-- Implemented **TestNG reports** & structured logging for better traceability.
+- 🧩 Developed **end-to-end regression suites** using Selenium + TestNG  
+- 🔗 Designed **API test collections** with Postman and automated validations with Rest Assured  
+- ⚙️ Performed **load testing** on web apps using JMeter for response and throughput insights  
+- 🧾 Wrote **structured defect reports**, ensuring clear communication and traceability  
+- 🤝 Collaborated with developers for faster defect resolution and better release confidence  
 
-#### 🔗 [API Contract & Functional Tests (REST Assured + Postman)](https://github.com/kajalrokade7/API-Automation)
-- Created **Postman collections** for positive & negative API flows.  
-- Validated **API responses, headers, and auth** using REST Assured, integrated with CI builds.
+---
 
-#### ⚙️ [Performance Baseline (JMeter)](https://github.com/kajalrokade7/JMeter-Performance)
-- Simulated concurrent users for load & stress testing.  
-- Reported **response time, throughput, and error rate** for performance insights.
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
 
 ---
 
 ### 🧠 How I Work  
 
-- 📝 Convert requirements into reproducible test cases & automated scripts  
+- 📝 Convert requirements into reproducible test cases & automation scripts  
 - 🧾 Validate backend data via **SQL queries** for end-to-end accuracy  
-- 🐞 Log clear, detailed defects with environment info & logs  
-- 🤝 Collaborate closely with dev teams for quick resolutions  
-- 📈 Track automation ROI & performance metrics  
+- 🐞 Log detailed defects with environment info & evidence  
+- 🤝 Collaborate with developers & stakeholders for quality assurance  
+- 📈 Continuously learn & improve test frameworks  
 
 ---
 
 ### 🚀 Goals & Next Steps  
 
 - ⚙️ Expand **Playwright automation** with CI/CD integration  
-- 🔗 Improve **API contract validation** and add schema checks  
-- 🔐 Explore **security testing fundamentals** and pursue **ISTQB & Playwright certifications**  
+- 🔗 Strengthen **API contract validation** using schema and mock servers  
+- 🔐 Explore **security testing** and pursue **ISTQB & Playwright certifications**  
+- 🤖 Learn **AI-driven testing** tools and improve automation efficiency  
 
 ---
 
@@ -81,11 +87,21 @@ I love turning manual test cases into **data-driven automation** that improves a
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/kajalrokade7" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/kajal-jagdish-rokade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kajalrokade27@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/kajalrokade7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-### 💬 *“Testing isn’t just about finding bugs — it’s about ensuring confidence, reliability, and excellence in every release.”* 💎  
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="250" alt="Testing GIF"/>
+</p>
+
+<h3 align="center">💬 “Testing isn’t just about finding bugs — it’s about ensuring confidence, reliability, and excellence in every release.” 💎</h3>
