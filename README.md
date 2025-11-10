@@ -3,10 +3,6 @@
 <h1 align="center">👋 Hi, I'm Kajal Rokade</h1>
 <h3 align="center">🚀 Junior Software Tester | Automation • API • Performance | Metapercept</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Testing in action"/>
-</p>
-
 ---
 
 ### 💡 About Me  
@@ -45,13 +41,7 @@ I enjoy transforming manual test cases into **data-driven automation** that ensu
 - 🧾 Wrote **structured defect reports**, ensuring clear communication and traceability  
 - 🤝 Collaborated with developers for faster defect resolution and better release confidence  
 
----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding GIF"/>
-</p>
-
----
 
 ### 🧠 How I Work  
 
@@ -100,8 +90,5 @@ I enjoy transforming manual test cases into **data-driven automation** that ensu
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="250" alt="Testing GIF"/>
-</p>
 
 <h3 align="center">💬 “Testing isn’t just about finding bugs — it’s about ensuring confidence, reliability, and excellence in every release.” 💎</h3>
